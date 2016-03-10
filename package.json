@@ -1,0 +1,23 @@
+{
+  "name": "mongomagic",
+  "version": "1.0.0",
+  "description": "Simple API create with MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceckenrode/mongoMagic.git"
+  },
+  "author": "Christian Eckenrode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceckenrode/mongoMagic/issues"
+  },
+  "homepage": "https://github.com/ceckenrode/mongoMagic#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongojs": "^2.3.0"
+  }
+}
